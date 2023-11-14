@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "801675030555",
+    "project_id": "rickkshaw-ad70a",
+    "storage_bucket": "rickkshaw-ad70a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801675030555:android:e37dd8a2380909a23808be",
+        "android_client_info": {
+          "package_name": "com.appionic.rickkshaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801675030555-rsn37eu6g1idck0orpme68et92073oal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appionic.rickkshaw",
+            "certificate_hash": "8b70be8f97fb11ac4327b3fd8b16ebcf171b7e57"
+          }
+        },
+        {
+          "client_id": "801675030555-cfm18gdgvoa08jdo9qfns5lgcfh10m5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD8A4rqLPnQpHH1OFt3wTlPABmnyUaAqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801675030555-cfm18gdgvoa08jdo9qfns5lgcfh10m5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
